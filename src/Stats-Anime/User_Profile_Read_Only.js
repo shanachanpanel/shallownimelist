@@ -99,7 +99,7 @@ const ReadOnlyProfile = ({
                 <div className="picks-container">
                     <h4>Top Picks</h4>
                     <div className="picks-container-inner">
-                        {top || <p>Very muuuuuchhhh empty...</p>}
+                        {top || <p>sangat kosong...</p>}
                     </div>
                 </div>
             </div>
